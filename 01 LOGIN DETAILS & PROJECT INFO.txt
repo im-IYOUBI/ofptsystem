@@ -1,0 +1,24 @@
+--Admin Login Details---
+
+Email   : admin@mail.com
+Password: admin
+
+---Teacher Login Details---
+
+Email   : aittalb1899@mail.com
+Password: aittalb1899
+
+---Student Login Details---
+
+Email   : noureddine.ihichr@mail.com
+Password: noureddine.ihichr
+
+---Parents Login Details---
+
+Email   : mohamed.ihichr@mail.com
+Password: mohamed.ihichr
+
+
+
+
+php artisan migrate:fresh --seed
